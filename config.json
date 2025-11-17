@@ -1,0 +1,7 @@
+{
+    "key_auto_redeemer": {
+        "target_group_id": "180505621",
+        "redeem_url": "https://api.anqingyou.top/api/user/use-key",
+        "bearer_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjM0NDEyMTgsImlhdCI6MTc2MzM1NDgxOCwidXNlcl9pZCI6Mjg3LCJ1c2VybmFtZSI6IjMxNDEifQ.OMYML0EI1gD6kedcHLyYyfn1WZiEHRatHPRB_2gFzk4"
+    }
+}
